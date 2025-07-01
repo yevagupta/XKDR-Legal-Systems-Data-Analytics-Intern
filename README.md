@@ -1,5 +1,5 @@
 # XKDR-Legal-Systems-Data-Analytics-Intern
-This project explores real estate litigation trends in India by analyzing legal datasets from the Bombay High Court and the National Company Law Tribunal (NCLT).
+The internship work explores real estate litigation trends in India by analyzing legal datasets from the Bombay High Court and the National Company Law Tribunal (NCLT).
 
 ###  Objectives
 - Extract and analyze litigation data from the Legal Systems Database (LSD)
